@@ -5,7 +5,7 @@
 
 যাইহোক, আমাদের প্রথম প্রজেক্ট আসলে হ্যালো ওয়ার্ল্ড টাইপের ওয়েবসাইট তৈরি করা! অর্থাৎ এমন ওয়েবসাইট যেটাতে ভিজিট করলে আমরা Hello World! লেখাটি দেখতে পাবো! 
 মুল প্রজেক্ট ফোল্ডার djangoproject এ গিয়ে ভার্চুয়াল এনভায়র্নমেন্ট একটিভ করুন, এরপর নিচের কমান্ডটি লিখে এন্টার চাপুনঃ 
-`Django-admin startproject myproject`
+`django-admin startproject myproject`
 
  ![](https://i.imgur.com/w0eR6EQ.jpg)
 
